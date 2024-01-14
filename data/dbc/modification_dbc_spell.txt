@@ -1,0 +1,3 @@
+26540 - Starfall
+	col. 73: 3040 -> 959           ; #3/10 Damage range
+        col. 79: 321  -> 81            ; #3/10 Damage minimum
